@@ -17,12 +17,12 @@ ConnectLink is a powerful Discord bot that helps users find gaming partners, con
 4. Start **chatting, gaming, and making connections!**  
 
 ## **Invite the Bot**  
-🔗 [Click here to invite ConnectLink](#invite)  
+🔗 [Click here to invite ConnectLink](https://discord.com/oauth2/authorize?client_id=1325299056133537842&permissions=1688989447219264&integration_type=0&scope=bot)  
 
 ## **Links**  
-- 🌐 **Website:** [yourwebsite.com](#)  
-- 📜 **Privacy Policy:** [yourwebsite.com/privacy](#)  
-- ❓ **Support Server:** [Discord Invite](#)  
+- 🌐 **Website:** [yourwebsite.com](https://connectlink.rf.gd)  
+- 📜 **Privacy Policy:** [yourwebsite.com/privacy](https://connectlink.rf.gd/privacy.html)  
+- ❓ **Support Server:** [Discord Invite](https://discord.gg/gUEERtYwuB)  
 
 ---
-🚀 **Developed by YourName**
+🚀 **Developed by @TapticSV/TapticDev**
