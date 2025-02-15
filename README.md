@@ -20,8 +20,8 @@ ConnectLink is a powerful Discord bot that helps users find gaming partners, con
 🔗 [Click here to invite ConnectLink](https://discord.com/oauth2/authorize?client_id=1325299056133537842&permissions=1688989447219264&integration_type=0&scope=bot)  
 
 ## **Links**  
-- 🌐 **Website:** [yourwebsite.com](https://connectlink.rf.gd)  
-- 📜 **Privacy Policy:** [yourwebsite.com/privacy](https://connectlink.rf.gd/privacy.html)  
+- 🌐 **Website:** [Connectlink.com](https://connectlink.rf.gd)  
+- 📜 **Privacy Policy:** [Connectlink.com/privacy](https://connectlink.rf.gd/privacy.html)  
 - ❓ **Support Server:** [Discord Invite](https://discord.gg/gUEERtYwuB)  
 
 ---
